@@ -1,13 +1,25 @@
 # 🧠 Typescript MCP Server Boilerplate
 
-This project is a **Typescript MCP Server Boilerplate** [Model Context Protocol (MCP)](https://modelcontextprotocol.org/).
+Easy-to-use boilerplate for quickly starting your own **Model Context Protocol (MCP)** server using **TypeScript**.
 
-## 💬 Support & Feedback
+## 📥 Installation
 
-Feel free to open issues or contribute to the project.
+Clone the repository and install dependencies:
 
-Buy me a Coffee :) https://buymeacoffee.com/delkhoshsiv
+```bash
+git clone https://github.com/siavashdelkhosh81/typescript-mcp-server-boilerplate
+cd typescript-mcp-server-boilerplate
+yarn
+```
 
-## License
+## 🤝 Contributing
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Contributions are welcome! Feel free to open issues, suggest enhancements, or submit pull requests.
+
+If this boilerplate helped you, consider supporting the development:
+
+☕ [Buy me a coffee!](https://buymeacoffee.com/delkhoshsiv)
+
+## 📜 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
